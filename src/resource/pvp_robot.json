@@ -1,0 +1,56 @@
+[
+  {
+    "Player_min": 35,
+    "Player_max": 39,
+    "Robot_level": 35,
+    "Random_type": "1,100;2,0;3,0"
+  },
+  {
+    "Player_min": 40,
+    "Player_max": 44,
+    "Robot_level": 40,
+    "Random_type": "1,100;2,0;3,0"
+  },
+  {
+    "Player_min": 45,
+    "Player_max": 49,
+    "Robot_level": 45,
+    "Random_type": "1,80;2,20;3,0"
+  },
+  {
+    "Player_min": 50,
+    "Player_max": 64,
+    "Robot_level": 50,
+    "Random_type": "1,80;2,20;3,0"
+  },
+  {
+    "Player_min": 55,
+    "Player_max": 59,
+    "Robot_level": 55,
+    "Random_type": "1,50;2,50;3,0"
+  },
+  {
+    "Player_min": 60,
+    "Player_max": 64,
+    "Robot_level": 60,
+    "Random_type": "1,50;2,50;3,0"
+  },
+  {
+    "Player_min": 65,
+    "Player_max": 69,
+    "Robot_level": 65,
+    "Random_type": "1,50;2,50;3,0"
+  },
+  {
+    "Player_min": 70,
+    "Player_max": 74,
+    "Robot_level": 70,
+    "Random_type": "1,30;2,60;3,10"
+  },
+  {
+    "Player_min": 75,
+    "Player_max": 80,
+    "Robot_level": 75,
+    "Random_type": "1,20;2,50;3,30"
+  }
+]

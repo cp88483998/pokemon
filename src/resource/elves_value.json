@@ -1,0 +1,4252 @@
+[
+  {
+    "valueID": 1000001,
+    "total_value": 318,
+    "HP": 45,
+    "ATK": 49,
+    "DEF": 49,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000002,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 62,
+    "DEF": 63,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000003,
+    "total_value": 525,
+    "HP": 80,
+    "ATK": 82,
+    "DEF": 83,
+    "INT": 100,
+    "MDF": 100,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000004,
+    "total_value": 309,
+    "HP": 39,
+    "ATK": 52,
+    "DEF": 43,
+    "INT": 60,
+    "MDF": 50,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000005,
+    "total_value": 405,
+    "HP": 58,
+    "ATK": 64,
+    "DEF": 58,
+    "INT": 80,
+    "MDF": 65,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000006,
+    "total_value": 534,
+    "HP": 78,
+    "ATK": 84,
+    "DEF": 78,
+    "INT": 109,
+    "MDF": 85,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000007,
+    "total_value": 314,
+    "HP": 44,
+    "ATK": 48,
+    "DEF": 65,
+    "INT": 50,
+    "MDF": 64,
+    "ACT": 43
+  },
+  {
+    "valueID": 1000008,
+    "total_value": 405,
+    "HP": 59,
+    "ATK": 63,
+    "DEF": 80,
+    "INT": 65,
+    "MDF": 80,
+    "ACT": 58
+  },
+  {
+    "valueID": 1000009,
+    "total_value": 530,
+    "HP": 79,
+    "ATK": 83,
+    "DEF": 100,
+    "INT": 85,
+    "MDF": 105,
+    "ACT": 78
+  },
+  {
+    "valueID": 1000010,
+    "total_value": 195,
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 35,
+    "INT": 20,
+    "MDF": 20,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000011,
+    "total_value": 205,
+    "HP": 50,
+    "ATK": 20,
+    "DEF": 55,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000012,
+    "total_value": 385,
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 50,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000013,
+    "total_value": 195,
+    "HP": 40,
+    "ATK": 35,
+    "DEF": 30,
+    "INT": 20,
+    "MDF": 20,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000014,
+    "total_value": 205,
+    "HP": 45,
+    "ATK": 25,
+    "DEF": 50,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000015,
+    "total_value": 385,
+    "HP": 65,
+    "ATK": 80,
+    "DEF": 40,
+    "INT": 45,
+    "MDF": 80,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000016,
+    "total_value": 251,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 40,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 56
+  },
+  {
+    "valueID": 1000017,
+    "total_value": 349,
+    "HP": 63,
+    "ATK": 60,
+    "DEF": 55,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 71
+  },
+  {
+    "valueID": 1000018,
+    "total_value": 469,
+    "HP": 83,
+    "ATK": 80,
+    "DEF": 75,
+    "INT": 70,
+    "MDF": 70,
+    "ACT": 91
+  },
+  {
+    "valueID": 1000019,
+    "total_value": 253,
+    "HP": 30,
+    "ATK": 56,
+    "DEF": 35,
+    "INT": 25,
+    "MDF": 35,
+    "ACT": 72
+  },
+  {
+    "valueID": 1000020,
+    "total_value": 413,
+    "HP": 55,
+    "ATK": 81,
+    "DEF": 60,
+    "INT": 50,
+    "MDF": 70,
+    "ACT": 97
+  },
+  {
+    "valueID": 1000021,
+    "total_value": 262,
+    "HP": 40,
+    "ATK": 60,
+    "DEF": 30,
+    "INT": 31,
+    "MDF": 31,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000022,
+    "total_value": 442,
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 65,
+    "INT": 61,
+    "MDF": 61,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000023,
+    "total_value": 288,
+    "HP": 35,
+    "ATK": 60,
+    "DEF": 44,
+    "INT": 40,
+    "MDF": 54,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000024,
+    "total_value": 438,
+    "HP": 60,
+    "ATK": 85,
+    "DEF": 69,
+    "INT": 65,
+    "MDF": 79,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000025,
+    "total_value": 300,
+    "HP": 35,
+    "ATK": 55,
+    "DEF": 30,
+    "INT": 50,
+    "MDF": 40,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000026,
+    "total_value": 475,
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 55,
+    "INT": 90,
+    "MDF": 80,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000027,
+    "total_value": 300,
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 85,
+    "INT": 20,
+    "MDF": 30,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000028,
+    "total_value": 450,
+    "HP": 75,
+    "ATK": 100,
+    "DEF": 110,
+    "INT": 45,
+    "MDF": 55,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000029,
+    "total_value": 275,
+    "HP": 55,
+    "ATK": 47,
+    "DEF": 52,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 41
+  },
+  {
+    "valueID": 1000030,
+    "total_value": 365,
+    "HP": 70,
+    "ATK": 62,
+    "DEF": 67,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 56
+  },
+  {
+    "valueID": 1000031,
+    "total_value": 495,
+    "HP": 90,
+    "ATK": 82,
+    "DEF": 87,
+    "INT": 75,
+    "MDF": 85,
+    "ACT": 76
+  },
+  {
+    "valueID": 1000032,
+    "total_value": 273,
+    "HP": 46,
+    "ATK": 57,
+    "DEF": 40,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000033,
+    "total_value": 365,
+    "HP": 61,
+    "ATK": 72,
+    "DEF": 57,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000034,
+    "total_value": 495,
+    "HP": 81,
+    "ATK": 92,
+    "DEF": 77,
+    "INT": 85,
+    "MDF": 75,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000035,
+    "total_value": 323,
+    "HP": 70,
+    "ATK": 45,
+    "DEF": 48,
+    "INT": 60,
+    "MDF": 65,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000036,
+    "total_value": 473,
+    "HP": 95,
+    "ATK": 70,
+    "DEF": 73,
+    "INT": 85,
+    "MDF": 90,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000037,
+    "total_value": 299,
+    "HP": 38,
+    "ATK": 41,
+    "DEF": 40,
+    "INT": 50,
+    "MDF": 65,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000038,
+    "total_value": 505,
+    "HP": 73,
+    "ATK": 76,
+    "DEF": 75,
+    "INT": 81,
+    "MDF": 100,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000039,
+    "total_value": 270,
+    "HP": 115,
+    "ATK": 45,
+    "DEF": 20,
+    "INT": 45,
+    "MDF": 25,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000040,
+    "total_value": 425,
+    "HP": 140,
+    "ATK": 70,
+    "DEF": 45,
+    "INT": 75,
+    "MDF": 50,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000041,
+    "total_value": 245,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 35,
+    "INT": 30,
+    "MDF": 40,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000042,
+    "total_value": 455,
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 70,
+    "INT": 65,
+    "MDF": 75,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000043,
+    "total_value": 320,
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 55,
+    "INT": 75,
+    "MDF": 65,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000044,
+    "total_value": 395,
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 70,
+    "INT": 85,
+    "MDF": 75,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000045,
+    "total_value": 480,
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 85,
+    "INT": 100,
+    "MDF": 90,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000046,
+    "total_value": 285,
+    "HP": 35,
+    "ATK": 70,
+    "DEF": 55,
+    "INT": 45,
+    "MDF": 55,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000047,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 95,
+    "DEF": 80,
+    "INT": 60,
+    "MDF": 80,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000048,
+    "total_value": 305,
+    "HP": 60,
+    "ATK": 55,
+    "DEF": 50,
+    "INT": 40,
+    "MDF": 55,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000049,
+    "total_value": 450,
+    "HP": 70,
+    "ATK": 65,
+    "DEF": 60,
+    "INT": 90,
+    "MDF": 75,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000050,
+    "total_value": 265,
+    "HP": 10,
+    "ATK": 55,
+    "DEF": 25,
+    "INT": 35,
+    "MDF": 45,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000051,
+    "total_value": 405,
+    "HP": 35,
+    "ATK": 80,
+    "DEF": 50,
+    "INT": 50,
+    "MDF": 70,
+    "ACT": 120
+  },
+  {
+    "valueID": 1000052,
+    "total_value": 290,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 35,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000053,
+    "total_value": 440,
+    "HP": 65,
+    "ATK": 70,
+    "DEF": 60,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 115
+  },
+  {
+    "valueID": 1000054,
+    "total_value": 320,
+    "HP": 50,
+    "ATK": 52,
+    "DEF": 48,
+    "INT": 65,
+    "MDF": 50,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000055,
+    "total_value": 500,
+    "HP": 80,
+    "ATK": 82,
+    "DEF": 78,
+    "INT": 95,
+    "MDF": 80,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000056,
+    "total_value": 305,
+    "HP": 40,
+    "ATK": 80,
+    "DEF": 35,
+    "INT": 35,
+    "MDF": 45,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000057,
+    "total_value": 455,
+    "HP": 65,
+    "ATK": 105,
+    "DEF": 60,
+    "INT": 60,
+    "MDF": 70,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000058,
+    "total_value": 350,
+    "HP": 55,
+    "ATK": 70,
+    "DEF": 45,
+    "INT": 70,
+    "MDF": 50,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000059,
+    "total_value": 555,
+    "HP": 90,
+    "ATK": 110,
+    "DEF": 80,
+    "INT": 100,
+    "MDF": 80,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000060,
+    "total_value": 300,
+    "HP": 40,
+    "ATK": 50,
+    "DEF": 40,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000061,
+    "total_value": 385,
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 65,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000062,
+    "total_value": 500,
+    "HP": 90,
+    "ATK": 85,
+    "DEF": 95,
+    "INT": 70,
+    "MDF": 90,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000063,
+    "total_value": 310,
+    "HP": 25,
+    "ATK": 20,
+    "DEF": 15,
+    "INT": 105,
+    "MDF": 55,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000064,
+    "total_value": 400,
+    "HP": 40,
+    "ATK": 35,
+    "DEF": 30,
+    "INT": 120,
+    "MDF": 70,
+    "ACT": 105
+  },
+  {
+    "valueID": 1000065,
+    "total_value": 490,
+    "HP": 55,
+    "ATK": 50,
+    "DEF": 45,
+    "INT": 135,
+    "MDF": 85,
+    "ACT": 120
+  },
+  {
+    "valueID": 1000066,
+    "total_value": 305,
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 50,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000067,
+    "total_value": 405,
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 70,
+    "INT": 50,
+    "MDF": 60,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000068,
+    "total_value": 505,
+    "HP": 90,
+    "ATK": 130,
+    "DEF": 80,
+    "INT": 65,
+    "MDF": 85,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000069,
+    "total_value": 300,
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 35,
+    "INT": 70,
+    "MDF": 30,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000070,
+    "total_value": 390,
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 50,
+    "INT": 85,
+    "MDF": 45,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000071,
+    "total_value": 480,
+    "HP": 80,
+    "ATK": 105,
+    "DEF": 65,
+    "INT": 100,
+    "MDF": 60,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000072,
+    "total_value": 335,
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 35,
+    "INT": 50,
+    "MDF": 100,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000073,
+    "total_value": 515,
+    "HP": 80,
+    "ATK": 70,
+    "DEF": 65,
+    "INT": 80,
+    "MDF": 120,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000074,
+    "total_value": 300,
+    "HP": 40,
+    "ATK": 80,
+    "DEF": 100,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000075,
+    "total_value": 390,
+    "HP": 55,
+    "ATK": 95,
+    "DEF": 115,
+    "INT": 45,
+    "MDF": 45,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000076,
+    "total_value": 485,
+    "HP": 80,
+    "ATK": 110,
+    "DEF": 130,
+    "INT": 55,
+    "MDF": 65,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000077,
+    "total_value": 410,
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 55,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000078,
+    "total_value": 500,
+    "HP": 65,
+    "ATK": 100,
+    "DEF": 70,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 105
+  },
+  {
+    "valueID": 1000079,
+    "total_value": 315,
+    "HP": 90,
+    "ATK": 65,
+    "DEF": 65,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000080,
+    "total_value": 490,
+    "HP": 95,
+    "ATK": 75,
+    "DEF": 110,
+    "INT": 100,
+    "MDF": 80,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000081,
+    "total_value": 325,
+    "HP": 25,
+    "ATK": 35,
+    "DEF": 70,
+    "INT": 95,
+    "MDF": 55,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000082,
+    "total_value": 465,
+    "HP": 50,
+    "ATK": 60,
+    "DEF": 95,
+    "INT": 120,
+    "MDF": 70,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000083,
+    "total_value": 352,
+    "HP": 52,
+    "ATK": 65,
+    "DEF": 55,
+    "INT": 58,
+    "MDF": 62,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000084,
+    "total_value": 310,
+    "HP": 35,
+    "ATK": 85,
+    "DEF": 45,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000085,
+    "total_value": 460,
+    "HP": 60,
+    "ATK": 110,
+    "DEF": 70,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000086,
+    "total_value": 325,
+    "HP": 65,
+    "ATK": 45,
+    "DEF": 55,
+    "INT": 45,
+    "MDF": 70,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000087,
+    "total_value": 475,
+    "HP": 90,
+    "ATK": 70,
+    "DEF": 80,
+    "INT": 70,
+    "MDF": 95,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000088,
+    "total_value": 325,
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 50,
+    "INT": 40,
+    "MDF": 50,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000089,
+    "total_value": 500,
+    "HP": 105,
+    "ATK": 105,
+    "DEF": 75,
+    "INT": 65,
+    "MDF": 100,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000090,
+    "total_value": 305,
+    "HP": 30,
+    "ATK": 65,
+    "DEF": 100,
+    "INT": 45,
+    "MDF": 25,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000091,
+    "total_value": 525,
+    "HP": 50,
+    "ATK": 95,
+    "DEF": 180,
+    "INT": 85,
+    "MDF": 45,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000092,
+    "total_value": 310,
+    "HP": 30,
+    "ATK": 35,
+    "DEF": 30,
+    "INT": 100,
+    "MDF": 35,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000093,
+    "total_value": 405,
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 45,
+    "INT": 115,
+    "MDF": 55,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000094,
+    "total_value": 500,
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 60,
+    "INT": 130,
+    "MDF": 75,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000095,
+    "total_value": 385,
+    "HP": 35,
+    "ATK": 45,
+    "DEF": 160,
+    "INT": 30,
+    "MDF": 45,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000096,
+    "total_value": 328,
+    "HP": 60,
+    "ATK": 48,
+    "DEF": 45,
+    "INT": 43,
+    "MDF": 90,
+    "ACT": 42
+  },
+  {
+    "valueID": 1000097,
+    "total_value": 483,
+    "HP": 85,
+    "ATK": 73,
+    "DEF": 70,
+    "INT": 73,
+    "MDF": 115,
+    "ACT": 67
+  },
+  {
+    "valueID": 1000098,
+    "total_value": 325,
+    "HP": 30,
+    "ATK": 105,
+    "DEF": 90,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000099,
+    "total_value": 475,
+    "HP": 55,
+    "ATK": 130,
+    "DEF": 115,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000100,
+    "total_value": 330,
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 50,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000101,
+    "total_value": 480,
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 70,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 140
+  },
+  {
+    "valueID": 1000102,
+    "total_value": 325,
+    "HP": 60,
+    "ATK": 40,
+    "DEF": 80,
+    "INT": 60,
+    "MDF": 45,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000103,
+    "total_value": 520,
+    "HP": 95,
+    "ATK": 95,
+    "DEF": 85,
+    "INT": 125,
+    "MDF": 65,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000104,
+    "total_value": 320,
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 95,
+    "INT": 40,
+    "MDF": 50,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000105,
+    "total_value": 425,
+    "HP": 60,
+    "ATK": 80,
+    "DEF": 110,
+    "INT": 50,
+    "MDF": 80,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000106,
+    "total_value": 455,
+    "HP": 50,
+    "ATK": 120,
+    "DEF": 53,
+    "INT": 35,
+    "MDF": 110,
+    "ACT": 87
+  },
+  {
+    "valueID": 1000107,
+    "total_value": 455,
+    "HP": 50,
+    "ATK": 105,
+    "DEF": 79,
+    "INT": 35,
+    "MDF": 110,
+    "ACT": 76
+  },
+  {
+    "valueID": 1000108,
+    "total_value": 385,
+    "HP": 90,
+    "ATK": 55,
+    "DEF": 75,
+    "INT": 60,
+    "MDF": 75,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000109,
+    "total_value": 340,
+    "HP": 40,
+    "ATK": 65,
+    "DEF": 95,
+    "INT": 60,
+    "MDF": 45,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000110,
+    "total_value": 490,
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 120,
+    "INT": 85,
+    "MDF": 70,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000111,
+    "total_value": 345,
+    "HP": 80,
+    "ATK": 85,
+    "DEF": 95,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000112,
+    "total_value": 485,
+    "HP": 105,
+    "ATK": 130,
+    "DEF": 120,
+    "INT": 45,
+    "MDF": 45,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000113,
+    "total_value": 450,
+    "HP": 250,
+    "ATK": 5,
+    "DEF": 5,
+    "INT": 35,
+    "MDF": 105,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000114,
+    "total_value": 435,
+    "HP": 65,
+    "ATK": 55,
+    "DEF": 115,
+    "INT": 100,
+    "MDF": 40,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000115,
+    "total_value": 490,
+    "HP": 105,
+    "ATK": 95,
+    "DEF": 80,
+    "INT": 40,
+    "MDF": 80,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000116,
+    "total_value": 295,
+    "HP": 30,
+    "ATK": 40,
+    "DEF": 70,
+    "INT": 70,
+    "MDF": 25,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000117,
+    "total_value": 440,
+    "HP": 55,
+    "ATK": 65,
+    "DEF": 95,
+    "INT": 95,
+    "MDF": 45,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000118,
+    "total_value": 320,
+    "HP": 45,
+    "ATK": 67,
+    "DEF": 60,
+    "INT": 35,
+    "MDF": 50,
+    "ACT": 63
+  },
+  {
+    "valueID": 1000119,
+    "total_value": 450,
+    "HP": 80,
+    "ATK": 92,
+    "DEF": 65,
+    "INT": 65,
+    "MDF": 80,
+    "ACT": 68
+  },
+  {
+    "valueID": 1000120,
+    "total_value": 340,
+    "HP": 30,
+    "ATK": 45,
+    "DEF": 55,
+    "INT": 70,
+    "MDF": 55,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000121,
+    "total_value": 520,
+    "HP": 60,
+    "ATK": 75,
+    "DEF": 85,
+    "INT": 100,
+    "MDF": 85,
+    "ACT": 115
+  },
+  {
+    "valueID": 1000122,
+    "total_value": 460,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 65,
+    "INT": 100,
+    "MDF": 120,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000123,
+    "total_value": 500,
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 80,
+    "INT": 55,
+    "MDF": 80,
+    "ACT": 105
+  },
+  {
+    "valueID": 1000124,
+    "total_value": 455,
+    "HP": 65,
+    "ATK": 50,
+    "DEF": 35,
+    "INT": 115,
+    "MDF": 95,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000125,
+    "total_value": 490,
+    "HP": 65,
+    "ATK": 83,
+    "DEF": 57,
+    "INT": 95,
+    "MDF": 85,
+    "ACT": 105
+  },
+  {
+    "valueID": 1000126,
+    "total_value": 495,
+    "HP": 65,
+    "ATK": 95,
+    "DEF": 57,
+    "INT": 100,
+    "MDF": 85,
+    "ACT": 93
+  },
+  {
+    "valueID": 1000127,
+    "total_value": 500,
+    "HP": 65,
+    "ATK": 125,
+    "DEF": 100,
+    "INT": 55,
+    "MDF": 70,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000128,
+    "total_value": 490,
+    "HP": 75,
+    "ATK": 100,
+    "DEF": 95,
+    "INT": 40,
+    "MDF": 70,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000129,
+    "total_value": 200,
+    "HP": 20,
+    "ATK": 10,
+    "DEF": 55,
+    "INT": 15,
+    "MDF": 20,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000130,
+    "total_value": 540,
+    "HP": 95,
+    "ATK": 125,
+    "DEF": 79,
+    "INT": 60,
+    "MDF": 100,
+    "ACT": 81
+  },
+  {
+    "valueID": 1000131,
+    "total_value": 535,
+    "HP": 130,
+    "ATK": 85,
+    "DEF": 80,
+    "INT": 85,
+    "MDF": 95,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000132,
+    "total_value": 288,
+    "HP": 48,
+    "ATK": 48,
+    "DEF": 48,
+    "INT": 48,
+    "MDF": 48,
+    "ACT": 48
+  },
+  {
+    "valueID": 1000133,
+    "total_value": 325,
+    "HP": 55,
+    "ATK": 55,
+    "DEF": 50,
+    "INT": 45,
+    "MDF": 65,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000134,
+    "total_value": 525,
+    "HP": 130,
+    "ATK": 65,
+    "DEF": 60,
+    "INT": 110,
+    "MDF": 95,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000135,
+    "total_value": 525,
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 60,
+    "INT": 110,
+    "MDF": 95,
+    "ACT": 130
+  },
+  {
+    "valueID": 1000136,
+    "total_value": 525,
+    "HP": 65,
+    "ATK": 130,
+    "DEF": 60,
+    "INT": 95,
+    "MDF": 110,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000137,
+    "total_value": 395,
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 70,
+    "INT": 85,
+    "MDF": 75,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000138,
+    "total_value": 355,
+    "HP": 35,
+    "ATK": 40,
+    "DEF": 100,
+    "INT": 90,
+    "MDF": 55,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000139,
+    "total_value": 495,
+    "HP": 70,
+    "ATK": 60,
+    "DEF": 125,
+    "INT": 115,
+    "MDF": 70,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000140,
+    "total_value": 355,
+    "HP": 30,
+    "ATK": 80,
+    "DEF": 90,
+    "INT": 55,
+    "MDF": 45,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000141,
+    "total_value": 495,
+    "HP": 60,
+    "ATK": 115,
+    "DEF": 105,
+    "INT": 65,
+    "MDF": 70,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000142,
+    "total_value": 515,
+    "HP": 80,
+    "ATK": 105,
+    "DEF": 65,
+    "INT": 60,
+    "MDF": 75,
+    "ACT": 130
+  },
+  {
+    "valueID": 1000143,
+    "total_value": 540,
+    "HP": 160,
+    "ATK": 110,
+    "DEF": 65,
+    "INT": 65,
+    "MDF": 110,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000144,
+    "total_value": 580,
+    "HP": 90,
+    "ATK": 85,
+    "DEF": 100,
+    "INT": 95,
+    "MDF": 125,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000145,
+    "total_value": 580,
+    "HP": 90,
+    "ATK": 90,
+    "DEF": 85,
+    "INT": 125,
+    "MDF": 90,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000146,
+    "total_value": 580,
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 90,
+    "INT": 125,
+    "MDF": 85,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000147,
+    "total_value": 300,
+    "HP": 41,
+    "ATK": 64,
+    "DEF": 45,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000148,
+    "total_value": 420,
+    "HP": 61,
+    "ATK": 84,
+    "DEF": 65,
+    "INT": 70,
+    "MDF": 70,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000149,
+    "total_value": 600,
+    "HP": 91,
+    "ATK": 134,
+    "DEF": 95,
+    "INT": 100,
+    "MDF": 100,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000150,
+    "total_value": 680,
+    "HP": 106,
+    "ATK": 110,
+    "DEF": 90,
+    "INT": 154,
+    "MDF": 90,
+    "ACT": 130
+  },
+  {
+    "valueID": 1000151,
+    "total_value": 600,
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 100,
+    "INT": 100,
+    "MDF": 100,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000152,
+    "total_value": 277,
+    "HP": 45,
+    "ATK": 8,
+    "DEF": 65,
+    "INT": 49,
+    "MDF": 65,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000153,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 62,
+    "DEF": 80,
+    "INT": 63,
+    "MDF": 80,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000154,
+    "total_value": 525,
+    "HP": 80,
+    "ATK": 82,
+    "DEF": 100,
+    "INT": 83,
+    "MDF": 100,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000155,
+    "total_value": 309,
+    "HP": 39,
+    "ATK": 52,
+    "DEF": 43,
+    "INT": 60,
+    "MDF": 50,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000156,
+    "total_value": 405,
+    "HP": 58,
+    "ATK": 64,
+    "DEF": 58,
+    "INT": 80,
+    "MDF": 65,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000157,
+    "total_value": 534,
+    "HP": 78,
+    "ATK": 84,
+    "DEF": 78,
+    "INT": 109,
+    "MDF": 85,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000158,
+    "total_value": 314,
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 64,
+    "INT": 44,
+    "MDF": 48,
+    "ACT": 43
+  },
+  {
+    "valueID": 1000159,
+    "total_value": 405,
+    "HP": 65,
+    "ATK": 80,
+    "DEF": 80,
+    "INT": 59,
+    "MDF": 63,
+    "ACT": 58
+  },
+  {
+    "valueID": 1000160,
+    "total_value": 530,
+    "HP": 85,
+    "ATK": 105,
+    "DEF": 100,
+    "INT": 79,
+    "MDF": 83,
+    "ACT": 78
+  },
+  {
+    "valueID": 1000161,
+    "total_value": 215,
+    "HP": 35,
+    "ATK": 46,
+    "DEF": 34,
+    "INT": 35,
+    "MDF": 45,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000162,
+    "total_value": 415,
+    "HP": 85,
+    "ATK": 76,
+    "DEF": 64,
+    "INT": 45,
+    "MDF": 55,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000163,
+    "total_value": 262,
+    "HP": 60,
+    "ATK": 30,
+    "DEF": 30,
+    "INT": 36,
+    "MDF": 56,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000164,
+    "total_value": 442,
+    "HP": 100,
+    "ATK": 50,
+    "DEF": 50,
+    "INT": 76,
+    "MDF": 96,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000165,
+    "total_value": 265,
+    "HP": 40,
+    "ATK": 20,
+    "DEF": 30,
+    "INT": 40,
+    "MDF": 80,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000166,
+    "total_value": 390,
+    "HP": 55,
+    "ATK": 35,
+    "DEF": 50,
+    "INT": 55,
+    "MDF": 110,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000167,
+    "total_value": 250,
+    "HP": 40,
+    "ATK": 60,
+    "DEF": 40,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000168,
+    "total_value": 390,
+    "HP": 70,
+    "ATK": 90,
+    "DEF": 70,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000169,
+    "total_value": 535,
+    "HP": 85,
+    "ATK": 90,
+    "DEF": 80,
+    "INT": 70,
+    "MDF": 80,
+    "ACT": 130
+  },
+  {
+    "valueID": 1000170,
+    "total_value": 330,
+    "HP": 75,
+    "ATK": 38,
+    "DEF": 38,
+    "INT": 56,
+    "MDF": 56,
+    "ACT": 67
+  },
+  {
+    "valueID": 1000171,
+    "total_value": 460,
+    "HP": 125,
+    "ATK": 58,
+    "DEF": 58,
+    "INT": 76,
+    "MDF": 76,
+    "ACT": 67
+  },
+  {
+    "valueID": 1000172,
+    "total_value": 205,
+    "HP": 20,
+    "ATK": 40,
+    "DEF": 15,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000173,
+    "total_value": 218,
+    "HP": 50,
+    "ATK": 25,
+    "DEF": 28,
+    "INT": 45,
+    "MDF": 55,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000174,
+    "total_value": 210,
+    "HP": 90,
+    "ATK": 30,
+    "DEF": 15,
+    "INT": 40,
+    "MDF": 20,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000175,
+    "total_value": 245,
+    "HP": 35,
+    "ATK": 20,
+    "DEF": 65,
+    "INT": 40,
+    "MDF": 65,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000176,
+    "total_value": 405,
+    "HP": 55,
+    "ATK": 40,
+    "DEF": 85,
+    "INT": 80,
+    "MDF": 105,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000177,
+    "total_value": 320,
+    "HP": 40,
+    "ATK": 50,
+    "DEF": 45,
+    "INT": 70,
+    "MDF": 45,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000178,
+    "total_value": 470,
+    "HP": 65,
+    "ATK": 75,
+    "DEF": 70,
+    "INT": 95,
+    "MDF": 70,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000179,
+    "total_value": 280,
+    "HP": 55,
+    "ATK": 40,
+    "DEF": 40,
+    "INT": 65,
+    "MDF": 45,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000180,
+    "total_value": 365,
+    "HP": 70,
+    "ATK": 55,
+    "DEF": 55,
+    "INT": 80,
+    "MDF": 60,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000181,
+    "total_value": 510,
+    "HP": 90,
+    "ATK": 75,
+    "DEF": 85,
+    "INT": 115,
+    "MDF": 90,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000182,
+    "total_value": 490,
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 95,
+    "INT": 90,
+    "MDF": 100,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000183,
+    "total_value": 250,
+    "HP": 70,
+    "ATK": 20,
+    "DEF": 50,
+    "INT": 20,
+    "MDF": 50,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000184,
+    "total_value": 420,
+    "HP": 100,
+    "ATK": 50,
+    "DEF": 80,
+    "INT": 60,
+    "MDF": 80,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000185,
+    "total_value": 410,
+    "HP": 70,
+    "ATK": 100,
+    "DEF": 115,
+    "INT": 30,
+    "MDF": 65,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000186,
+    "total_value": 500,
+    "HP": 90,
+    "ATK": 75,
+    "DEF": 75,
+    "INT": 90,
+    "MDF": 100,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000187,
+    "total_value": 250,
+    "HP": 35,
+    "ATK": 35,
+    "DEF": 40,
+    "INT": 35,
+    "MDF": 55,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000188,
+    "total_value": 340,
+    "HP": 55,
+    "ATK": 45,
+    "DEF": 50,
+    "INT": 45,
+    "MDF": 65,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000189,
+    "total_value": 460,
+    "HP": 75,
+    "ATK": 55,
+    "DEF": 70,
+    "INT": 55,
+    "MDF": 95,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000190,
+    "total_value": 360,
+    "HP": 55,
+    "ATK": 70,
+    "DEF": 55,
+    "INT": 40,
+    "MDF": 55,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000191,
+    "total_value": 180,
+    "HP": 30,
+    "ATK": 30,
+    "DEF": 30,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000192,
+    "total_value": 425,
+    "HP": 75,
+    "ATK": 75,
+    "DEF": 55,
+    "INT": 105,
+    "MDF": 85,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000193,
+    "total_value": 390,
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 45,
+    "INT": 75,
+    "MDF": 45,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000194,
+    "total_value": 210,
+    "HP": 55,
+    "ATK": 45,
+    "DEF": 45,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000195,
+    "total_value": 430,
+    "HP": 95,
+    "ATK": 85,
+    "DEF": 85,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000196,
+    "total_value": 525,
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 60,
+    "INT": 130,
+    "MDF": 95,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000197,
+    "total_value": 525,
+    "HP": 95,
+    "ATK": 65,
+    "DEF": 110,
+    "INT": 60,
+    "MDF": 130,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000198,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 85,
+    "DEF": 42,
+    "INT": 85,
+    "MDF": 42,
+    "ACT": 91
+  },
+  {
+    "valueID": 1000199,
+    "total_value": 490,
+    "HP": 95,
+    "ATK": 75,
+    "DEF": 80,
+    "INT": 100,
+    "MDF": 110,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000200,
+    "total_value": 435,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 60,
+    "INT": 85,
+    "MDF": 85,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000201,
+    "total_value": 336,
+    "HP": 48,
+    "ATK": 72,
+    "DEF": 48,
+    "INT": 72,
+    "MDF": 48,
+    "ACT": 48
+  },
+  {
+    "valueID": 1000202,
+    "total_value": 405,
+    "HP": 190,
+    "ATK": 33,
+    "DEF": 58,
+    "INT": 33,
+    "MDF": 58,
+    "ACT": 33
+  },
+  {
+    "valueID": 1000203,
+    "total_value": 455,
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 65,
+    "INT": 90,
+    "MDF": 65,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000204,
+    "total_value": 290,
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 90,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000205,
+    "total_value": 465,
+    "HP": 75,
+    "ATK": 90,
+    "DEF": 140,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000206,
+    "total_value": 415,
+    "HP": 100,
+    "ATK": 70,
+    "DEF": 70,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000207,
+    "total_value": 430,
+    "HP": 65,
+    "ATK": 75,
+    "DEF": 105,
+    "INT": 35,
+    "MDF": 65,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000208,
+    "total_value": 510,
+    "HP": 75,
+    "ATK": 85,
+    "DEF": 200,
+    "INT": 55,
+    "MDF": 65,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000209,
+    "total_value": 300,
+    "HP": 60,
+    "ATK": 80,
+    "DEF": 50,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000210,
+    "total_value": 450,
+    "HP": 90,
+    "ATK": 120,
+    "DEF": 75,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000211,
+    "total_value": 430,
+    "HP": 65,
+    "ATK": 95,
+    "DEF": 75,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000212,
+    "total_value": 500,
+    "HP": 70,
+    "ATK": 130,
+    "DEF": 100,
+    "INT": 55,
+    "MDF": 80,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000213,
+    "total_value": 505,
+    "HP": 20,
+    "ATK": 10,
+    "DEF": 230,
+    "INT": 10,
+    "MDF": 230,
+    "ACT": 5
+  },
+  {
+    "valueID": 1000214,
+    "total_value": 500,
+    "HP": 80,
+    "ATK": 125,
+    "DEF": 75,
+    "INT": 40,
+    "MDF": 95,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000215,
+    "total_value": 430,
+    "HP": 55,
+    "ATK": 95,
+    "DEF": 55,
+    "INT": 35,
+    "MDF": 75,
+    "ACT": 115
+  },
+  {
+    "valueID": 1000216,
+    "total_value": 330,
+    "HP": 60,
+    "ATK": 80,
+    "DEF": 50,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000217,
+    "total_value": 500,
+    "HP": 90,
+    "ATK": 130,
+    "DEF": 75,
+    "INT": 75,
+    "MDF": 75,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000218,
+    "total_value": 250,
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 40,
+    "INT": 70,
+    "MDF": 40,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000219,
+    "total_value": 410,
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 120,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000220,
+    "total_value": 250,
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 40,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000221,
+    "total_value": 450,
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 80,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000222,
+    "total_value": 380,
+    "HP": 55,
+    "ATK": 55,
+    "DEF": 85,
+    "INT": 65,
+    "MDF": 85,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000223,
+    "total_value": 300,
+    "HP": 35,
+    "ATK": 65,
+    "DEF": 35,
+    "INT": 65,
+    "MDF": 35,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000224,
+    "total_value": 480,
+    "HP": 75,
+    "ATK": 105,
+    "DEF": 75,
+    "INT": 105,
+    "MDF": 75,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000225,
+    "total_value": 330,
+    "HP": 45,
+    "ATK": 55,
+    "DEF": 45,
+    "INT": 65,
+    "MDF": 45,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000226,
+    "total_value": 465,
+    "HP": 65,
+    "ATK": 40,
+    "DEF": 70,
+    "INT": 80,
+    "MDF": 140,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000227,
+    "total_value": 465,
+    "HP": 65,
+    "ATK": 80,
+    "DEF": 140,
+    "INT": 40,
+    "MDF": 70,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000228,
+    "total_value": 330,
+    "HP": 45,
+    "ATK": 60,
+    "DEF": 30,
+    "INT": 80,
+    "MDF": 50,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000229,
+    "total_value": 500,
+    "HP": 75,
+    "ATK": 90,
+    "DEF": 50,
+    "INT": 110,
+    "MDF": 80,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000230,
+    "total_value": 540,
+    "HP": 75,
+    "ATK": 95,
+    "DEF": 95,
+    "INT": 95,
+    "MDF": 95,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000231,
+    "total_value": 330,
+    "HP": 90,
+    "ATK": 60,
+    "DEF": 60,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000232,
+    "total_value": 500,
+    "HP": 90,
+    "ATK": 120,
+    "DEF": 120,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000233,
+    "total_value": 515,
+    "HP": 85,
+    "ATK": 80,
+    "DEF": 90,
+    "INT": 105,
+    "MDF": 95,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000234,
+    "total_value": 465,
+    "HP": 73,
+    "ATK": 95,
+    "DEF": 62,
+    "INT": 85,
+    "MDF": 65,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000235,
+    "total_value": 250,
+    "HP": 55,
+    "ATK": 20,
+    "DEF": 35,
+    "INT": 20,
+    "MDF": 45,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000236,
+    "total_value": 210,
+    "HP": 35,
+    "ATK": 35,
+    "DEF": 35,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000237,
+    "total_value": 455,
+    "HP": 50,
+    "ATK": 95,
+    "DEF": 95,
+    "INT": 35,
+    "MDF": 110,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000238,
+    "total_value": 305,
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 15,
+    "INT": 85,
+    "MDF": 65,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000239,
+    "total_value": 360,
+    "HP": 45,
+    "ATK": 63,
+    "DEF": 37,
+    "INT": 65,
+    "MDF": 55,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000240,
+    "total_value": 365,
+    "HP": 45,
+    "ATK": 75,
+    "DEF": 37,
+    "INT": 70,
+    "MDF": 55,
+    "ACT": 83
+  },
+  {
+    "valueID": 1000241,
+    "total_value": 490,
+    "HP": 95,
+    "ATK": 80,
+    "DEF": 105,
+    "INT": 40,
+    "MDF": 70,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000242,
+    "total_value": 540,
+    "HP": 255,
+    "ATK": 10,
+    "DEF": 10,
+    "INT": 75,
+    "MDF": 135,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000243,
+    "total_value": 580,
+    "HP": 90,
+    "ATK": 85,
+    "DEF": 75,
+    "INT": 115,
+    "MDF": 100,
+    "ACT": 115
+  },
+  {
+    "valueID": 1000244,
+    "total_value": 580,
+    "HP": 115,
+    "ATK": 115,
+    "DEF": 85,
+    "INT": 90,
+    "MDF": 75,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000245,
+    "total_value": 580,
+    "HP": 100,
+    "ATK": 75,
+    "DEF": 115,
+    "INT": 90,
+    "MDF": 115,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000246,
+    "total_value": 300,
+    "HP": 50,
+    "ATK": 64,
+    "DEF": 50,
+    "INT": 45,
+    "MDF": 50,
+    "ACT": 41
+  },
+  {
+    "valueID": 1000247,
+    "total_value": 410,
+    "HP": 70,
+    "ATK": 84,
+    "DEF": 70,
+    "INT": 65,
+    "MDF": 70,
+    "ACT": 51
+  },
+  {
+    "valueID": 1000248,
+    "total_value": 600,
+    "HP": 100,
+    "ATK": 134,
+    "DEF": 110,
+    "INT": 95,
+    "MDF": 100,
+    "ACT": 61
+  },
+  {
+    "valueID": 1000249,
+    "total_value": 680,
+    "HP": 106,
+    "ATK": 90,
+    "DEF": 130,
+    "INT": 90,
+    "MDF": 154,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000250,
+    "total_value": 680,
+    "HP": 106,
+    "ATK": 130,
+    "DEF": 90,
+    "INT": 110,
+    "MDF": 154,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000251,
+    "total_value": 600,
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 100,
+    "INT": 100,
+    "MDF": 100,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000252,
+    "total_value": 310,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 35,
+    "INT": 65,
+    "MDF": 55,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000253,
+    "total_value": 405,
+    "HP": 50,
+    "ATK": 65,
+    "DEF": 45,
+    "INT": 85,
+    "MDF": 65,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000254,
+    "total_value": 530,
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 65,
+    "INT": 105,
+    "MDF": 85,
+    "ACT": 120
+  },
+  {
+    "valueID": 1000255,
+    "total_value": 310,
+    "HP": 45,
+    "ATK": 60,
+    "DEF": 40,
+    "INT": 70,
+    "MDF": 50,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000256,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 85,
+    "DEF": 60,
+    "INT": 85,
+    "MDF": 60,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000257,
+    "total_value": 530,
+    "HP": 80,
+    "ATK": 120,
+    "DEF": 70,
+    "INT": 110,
+    "MDF": 70,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000258,
+    "total_value": 310,
+    "HP": 50,
+    "ATK": 70,
+    "DEF": 50,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000259,
+    "total_value": 405,
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 70,
+    "INT": 60,
+    "MDF": 70,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000260,
+    "total_value": 535,
+    "HP": 100,
+    "ATK": 110,
+    "DEF": 90,
+    "INT": 85,
+    "MDF": 90,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000261,
+    "total_value": 220,
+    "HP": 35,
+    "ATK": 55,
+    "DEF": 35,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000262,
+    "total_value": 420,
+    "HP": 70,
+    "ATK": 90,
+    "DEF": 70,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000263,
+    "total_value": 240,
+    "HP": 38,
+    "ATK": 30,
+    "DEF": 41,
+    "INT": 30,
+    "MDF": 41,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000264,
+    "total_value": 420,
+    "HP": 78,
+    "ATK": 70,
+    "DEF": 61,
+    "INT": 50,
+    "MDF": 61,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000265,
+    "total_value": 195,
+    "HP": 45,
+    "ATK": 45,
+    "DEF": 35,
+    "INT": 20,
+    "MDF": 30,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000266,
+    "total_value": 205,
+    "HP": 50,
+    "ATK": 35,
+    "DEF": 55,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000267,
+    "total_value": 385,
+    "HP": 60,
+    "ATK": 70,
+    "DEF": 50,
+    "INT": 90,
+    "MDF": 50,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000268,
+    "total_value": 205,
+    "HP": 50,
+    "ATK": 35,
+    "DEF": 55,
+    "INT": 25,
+    "MDF": 25,
+    "ACT": 15
+  },
+  {
+    "valueID": 1000269,
+    "total_value": 385,
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 70,
+    "INT": 50,
+    "MDF": 90,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000270,
+    "total_value": 220,
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 30,
+    "INT": 40,
+    "MDF": 50,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000271,
+    "total_value": 340,
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 50,
+    "INT": 60,
+    "MDF": 70,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000272,
+    "total_value": 480,
+    "HP": 80,
+    "ATK": 70,
+    "DEF": 70,
+    "INT": 90,
+    "MDF": 100,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000273,
+    "total_value": 220,
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 50,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000274,
+    "total_value": 340,
+    "HP": 70,
+    "ATK": 70,
+    "DEF": 40,
+    "INT": 60,
+    "MDF": 40,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000275,
+    "total_value": 480,
+    "HP": 90,
+    "ATK": 100,
+    "DEF": 60,
+    "INT": 90,
+    "MDF": 60,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000276,
+    "total_value": 270,
+    "HP": 40,
+    "ATK": 55,
+    "DEF": 30,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000277,
+    "total_value": 430,
+    "HP": 60,
+    "ATK": 85,
+    "DEF": 60,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 125
+  },
+  {
+    "valueID": 1000278,
+    "total_value": 270,
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 30,
+    "INT": 55,
+    "MDF": 30,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000279,
+    "total_value": 430,
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 100,
+    "INT": 85,
+    "MDF": 70,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000280,
+    "total_value": 198,
+    "HP": 28,
+    "ATK": 25,
+    "DEF": 25,
+    "INT": 45,
+    "MDF": 35,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000281,
+    "total_value": 278,
+    "HP": 38,
+    "ATK": 35,
+    "DEF": 35,
+    "INT": 65,
+    "MDF": 55,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000282,
+    "total_value": 518,
+    "HP": 68,
+    "ATK": 65,
+    "DEF": 65,
+    "INT": 125,
+    "MDF": 115,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000283,
+    "total_value": 269,
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 32,
+    "INT": 50,
+    "MDF": 52,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000284,
+    "total_value": 414,
+    "HP": 70,
+    "ATK": 60,
+    "DEF": 62,
+    "INT": 80,
+    "MDF": 82,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000285,
+    "total_value": 295,
+    "HP": 60,
+    "ATK": 40,
+    "DEF": 60,
+    "INT": 40,
+    "MDF": 60,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000286,
+    "total_value": 460,
+    "HP": 60,
+    "ATK": 130,
+    "DEF": 80,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000287,
+    "total_value": 280,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 60,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000288,
+    "total_value": 440,
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 80,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000289,
+    "total_value": 670,
+    "HP": 150,
+    "ATK": 160,
+    "DEF": 100,
+    "INT": 95,
+    "MDF": 65,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000290,
+    "total_value": 266,
+    "HP": 31,
+    "ATK": 45,
+    "DEF": 90,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000291,
+    "total_value": 456,
+    "HP": 61,
+    "ATK": 90,
+    "DEF": 45,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 160
+  },
+  {
+    "valueID": 1000292,
+    "total_value": 236,
+    "HP": 1,
+    "ATK": 90,
+    "DEF": 45,
+    "INT": 30,
+    "MDF": 30,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000293,
+    "total_value": 240,
+    "HP": 64,
+    "ATK": 51,
+    "DEF": 23,
+    "INT": 51,
+    "MDF": 23,
+    "ACT": 28
+  },
+  {
+    "valueID": 1000294,
+    "total_value": 360,
+    "HP": 84,
+    "ATK": 71,
+    "DEF": 43,
+    "INT": 71,
+    "MDF": 43,
+    "ACT": 48
+  },
+  {
+    "valueID": 1000295,
+    "total_value": 480,
+    "HP": 104,
+    "ATK": 91,
+    "DEF": 63,
+    "INT": 91,
+    "MDF": 63,
+    "ACT": 68
+  },
+  {
+    "valueID": 1000296,
+    "total_value": 237,
+    "HP": 72,
+    "ATK": 60,
+    "DEF": 30,
+    "INT": 20,
+    "MDF": 30,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000297,
+    "total_value": 474,
+    "HP": 144,
+    "ATK": 120,
+    "DEF": 60,
+    "INT": 40,
+    "MDF": 60,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000298,
+    "total_value": 190,
+    "HP": 50,
+    "ATK": 20,
+    "DEF": 40,
+    "INT": 20,
+    "MDF": 40,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000299,
+    "total_value": 375,
+    "HP": 30,
+    "ATK": 45,
+    "DEF": 135,
+    "INT": 45,
+    "MDF": 90,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000300,
+    "total_value": 260,
+    "HP": 50,
+    "ATK": 45,
+    "DEF": 45,
+    "INT": 35,
+    "MDF": 35,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000301,
+    "total_value": 380,
+    "HP": 70,
+    "ATK": 65,
+    "DEF": 65,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000302,
+    "total_value": 380,
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 75,
+    "INT": 65,
+    "MDF": 65,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000303,
+    "total_value": 380,
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 85,
+    "INT": 55,
+    "MDF": 55,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000304,
+    "total_value": 330,
+    "HP": 50,
+    "ATK": 70,
+    "DEF": 100,
+    "INT": 40,
+    "MDF": 40,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000305,
+    "total_value": 430,
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 140,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000306,
+    "total_value": 530,
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 180,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000307,
+    "total_value": 280,
+    "HP": 30,
+    "ATK": 40,
+    "DEF": 55,
+    "INT": 40,
+    "MDF": 55,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000308,
+    "total_value": 410,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 75,
+    "INT": 60,
+    "MDF": 75,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000309,
+    "total_value": 295,
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 40,
+    "INT": 65,
+    "MDF": 40,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000310,
+    "total_value": 475,
+    "HP": 70,
+    "ATK": 75,
+    "DEF": 60,
+    "INT": 105,
+    "MDF": 60,
+    "ACT": 105
+  },
+  {
+    "valueID": 1000311,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 50,
+    "DEF": 40,
+    "INT": 85,
+    "MDF": 75,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000312,
+    "total_value": 405,
+    "HP": 60,
+    "ATK": 40,
+    "DEF": 50,
+    "INT": 75,
+    "MDF": 85,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000313,
+    "total_value": 400,
+    "HP": 65,
+    "ATK": 73,
+    "DEF": 55,
+    "INT": 47,
+    "MDF": 75,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000314,
+    "total_value": 400,
+    "HP": 65,
+    "ATK": 47,
+    "DEF": 55,
+    "INT": 73,
+    "MDF": 75,
+    "ACT": 85
+  },
+  {
+    "valueID": 1000315,
+    "total_value": 400,
+    "HP": 50,
+    "ATK": 60,
+    "DEF": 45,
+    "INT": 100,
+    "MDF": 80,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000316,
+    "total_value": 302,
+    "HP": 70,
+    "ATK": 43,
+    "DEF": 53,
+    "INT": 43,
+    "MDF": 53,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000317,
+    "total_value": 467,
+    "HP": 100,
+    "ATK": 73,
+    "DEF": 83,
+    "INT": 73,
+    "MDF": 83,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000318,
+    "total_value": 305,
+    "HP": 45,
+    "ATK": 90,
+    "DEF": 20,
+    "INT": 65,
+    "MDF": 20,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000319,
+    "total_value": 460,
+    "HP": 70,
+    "ATK": 120,
+    "DEF": 40,
+    "INT": 95,
+    "MDF": 40,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000320,
+    "total_value": 400,
+    "HP": 130,
+    "ATK": 70,
+    "DEF": 35,
+    "INT": 70,
+    "MDF": 35,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000321,
+    "total_value": 500,
+    "HP": 170,
+    "ATK": 90,
+    "DEF": 45,
+    "INT": 90,
+    "MDF": 45,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000322,
+    "total_value": 305,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 40,
+    "INT": 65,
+    "MDF": 45,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000323,
+    "total_value": 460,
+    "HP": 70,
+    "ATK": 100,
+    "DEF": 70,
+    "INT": 105,
+    "MDF": 75,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000324,
+    "total_value": 470,
+    "HP": 70,
+    "ATK": 85,
+    "DEF": 140,
+    "INT": 85,
+    "MDF": 70,
+    "ACT": 20
+  },
+  {
+    "valueID": 1000325,
+    "total_value": 330,
+    "HP": 60,
+    "ATK": 25,
+    "DEF": 35,
+    "INT": 70,
+    "MDF": 80,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000326,
+    "total_value": 470,
+    "HP": 80,
+    "ATK": 45,
+    "DEF": 65,
+    "INT": 90,
+    "MDF": 110,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000327,
+    "total_value": 360,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 60,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000328,
+    "total_value": 290,
+    "HP": 45,
+    "ATK": 100,
+    "DEF": 45,
+    "INT": 45,
+    "MDF": 45,
+    "ACT": 10
+  },
+  {
+    "valueID": 1000329,
+    "total_value": 340,
+    "HP": 50,
+    "ATK": 70,
+    "DEF": 50,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000330,
+    "total_value": 520,
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 80,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000331,
+    "total_value": 335,
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 40,
+    "INT": 85,
+    "MDF": 40,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000332,
+    "total_value": 475,
+    "HP": 70,
+    "ATK": 115,
+    "DEF": 60,
+    "INT": 115,
+    "MDF": 60,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000333,
+    "total_value": 310,
+    "HP": 45,
+    "ATK": 40,
+    "DEF": 60,
+    "INT": 40,
+    "MDF": 75,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000334,
+    "total_value": 490,
+    "HP": 75,
+    "ATK": 70,
+    "DEF": 90,
+    "INT": 70,
+    "MDF": 105,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000335,
+    "total_value": 458,
+    "HP": 73,
+    "ATK": 115,
+    "DEF": 60,
+    "INT": 60,
+    "MDF": 60,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000336,
+    "total_value": 458,
+    "HP": 73,
+    "ATK": 100,
+    "DEF": 60,
+    "INT": 100,
+    "MDF": 60,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000337,
+    "total_value": 440,
+    "HP": 70,
+    "ATK": 55,
+    "DEF": 65,
+    "INT": 95,
+    "MDF": 85,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000338,
+    "total_value": 440,
+    "HP": 70,
+    "ATK": 95,
+    "DEF": 85,
+    "INT": 55,
+    "MDF": 65,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000339,
+    "total_value": 288,
+    "HP": 50,
+    "ATK": 48,
+    "DEF": 43,
+    "INT": 46,
+    "MDF": 41,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000340,
+    "total_value": 468,
+    "HP": 110,
+    "ATK": 78,
+    "DEF": 73,
+    "INT": 76,
+    "MDF": 71,
+    "ACT": 60
+  },
+  {
+    "valueID": 1000341,
+    "total_value": 308,
+    "HP": 43,
+    "ATK": 80,
+    "DEF": 65,
+    "INT": 50,
+    "MDF": 35,
+    "ACT": 35
+  },
+  {
+    "valueID": 1000342,
+    "total_value": 468,
+    "HP": 63,
+    "ATK": 120,
+    "DEF": 85,
+    "INT": 90,
+    "MDF": 55,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000343,
+    "total_value": 300,
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 55,
+    "INT": 40,
+    "MDF": 70,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000344,
+    "total_value": 500,
+    "HP": 60,
+    "ATK": 70,
+    "DEF": 105,
+    "INT": 70,
+    "MDF": 120,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000345,
+    "total_value": 355,
+    "HP": 66,
+    "ATK": 41,
+    "DEF": 77,
+    "INT": 61,
+    "MDF": 87,
+    "ACT": 23
+  },
+  {
+    "valueID": 1000346,
+    "total_value": 495,
+    "HP": 86,
+    "ATK": 81,
+    "DEF": 97,
+    "INT": 81,
+    "MDF": 107,
+    "ACT": 43
+  },
+  {
+    "valueID": 1000347,
+    "total_value": 355,
+    "HP": 45,
+    "ATK": 95,
+    "DEF": 50,
+    "INT": 40,
+    "MDF": 50,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000348,
+    "total_value": 495,
+    "HP": 75,
+    "ATK": 125,
+    "DEF": 100,
+    "INT": 70,
+    "MDF": 80,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000349,
+    "total_value": 200,
+    "HP": 20,
+    "ATK": 15,
+    "DEF": 20,
+    "INT": 10,
+    "MDF": 55,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000350,
+    "total_value": 555,
+    "HP": 95,
+    "ATK": 55,
+    "DEF": 55,
+    "INT": 125,
+    "MDF": 125,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000351,
+    "total_value": 420,
+    "HP": 70,
+    "ATK": 70,
+    "DEF": 70,
+    "INT": 70,
+    "MDF": 70,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000352,
+    "total_value": 440,
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 70,
+    "INT": 60,
+    "MDF": 120,
+    "ACT": 40
+  },
+  {
+    "valueID": 1000353,
+    "total_value": 295,
+    "HP": 44,
+    "ATK": 75,
+    "DEF": 35,
+    "INT": 63,
+    "MDF": 33,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000354,
+    "total_value": 455,
+    "HP": 64,
+    "ATK": 115,
+    "DEF": 65,
+    "INT": 83,
+    "MDF": 63,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000355,
+    "total_value": 295,
+    "HP": 20,
+    "ATK": 40,
+    "DEF": 90,
+    "INT": 30,
+    "MDF": 90,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000356,
+    "total_value": 455,
+    "HP": 40,
+    "ATK": 70,
+    "DEF": 130,
+    "INT": 60,
+    "MDF": 130,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000357,
+    "total_value": 460,
+    "HP": 99,
+    "ATK": 68,
+    "DEF": 83,
+    "INT": 72,
+    "MDF": 87,
+    "ACT": 51
+  },
+  {
+    "valueID": 1000358,
+    "total_value": 425,
+    "HP": 65,
+    "ATK": 50,
+    "DEF": 70,
+    "INT": 95,
+    "MDF": 80,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000359,
+    "total_value": 465,
+    "HP": 65,
+    "ATK": 130,
+    "DEF": 60,
+    "INT": 75,
+    "MDF": 60,
+    "ACT": 75
+  },
+  {
+    "valueID": 1000360,
+    "total_value": 260,
+    "HP": 95,
+    "ATK": 23,
+    "DEF": 48,
+    "INT": 23,
+    "MDF": 48,
+    "ACT": 23
+  },
+  {
+    "valueID": 1000361,
+    "total_value": 300,
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 50,
+    "INT": 50,
+    "MDF": 50,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000362,
+    "total_value": 480,
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 80,
+    "INT": 80,
+    "MDF": 80,
+    "ACT": 80
+  },
+  {
+    "valueID": 1000363,
+    "total_value": 290,
+    "HP": 70,
+    "ATK": 40,
+    "DEF": 50,
+    "INT": 55,
+    "MDF": 50,
+    "ACT": 25
+  },
+  {
+    "valueID": 1000364,
+    "total_value": 410,
+    "HP": 90,
+    "ATK": 60,
+    "DEF": 70,
+    "INT": 75,
+    "MDF": 70,
+    "ACT": 45
+  },
+  {
+    "valueID": 1000365,
+    "total_value": 530,
+    "HP": 110,
+    "ATK": 80,
+    "DEF": 90,
+    "INT": 95,
+    "MDF": 90,
+    "ACT": 65
+  },
+  {
+    "valueID": 1000366,
+    "total_value": 345,
+    "HP": 35,
+    "ATK": 64,
+    "DEF": 85,
+    "INT": 74,
+    "MDF": 55,
+    "ACT": 32
+  },
+  {
+    "valueID": 1000367,
+    "total_value": 485,
+    "HP": 55,
+    "ATK": 104,
+    "DEF": 105,
+    "INT": 94,
+    "MDF": 75,
+    "ACT": 52
+  },
+  {
+    "valueID": 1000368,
+    "total_value": 485,
+    "HP": 55,
+    "ATK": 84,
+    "DEF": 105,
+    "INT": 114,
+    "MDF": 75,
+    "ACT": 52
+  },
+  {
+    "valueID": 1000369,
+    "total_value": 485,
+    "HP": 100,
+    "ATK": 90,
+    "DEF": 130,
+    "INT": 45,
+    "MDF": 65,
+    "ACT": 55
+  },
+  {
+    "valueID": 1000370,
+    "total_value": 330,
+    "HP": 43,
+    "ATK": 30,
+    "DEF": 55,
+    "INT": 40,
+    "MDF": 65,
+    "ACT": 97
+  },
+  {
+    "valueID": 1000371,
+    "total_value": 300,
+    "HP": 45,
+    "ATK": 75,
+    "DEF": 60,
+    "INT": 40,
+    "MDF": 30,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000372,
+    "total_value": 420,
+    "HP": 65,
+    "ATK": 95,
+    "DEF": 100,
+    "INT": 60,
+    "MDF": 50,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000373,
+    "total_value": 630,
+    "HP": 100,
+    "ATK": 135,
+    "DEF": 85,
+    "INT": 110,
+    "MDF": 100,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000374,
+    "total_value": 300,
+    "HP": 40,
+    "ATK": 55,
+    "DEF": 80,
+    "INT": 35,
+    "MDF": 60,
+    "ACT": 30
+  },
+  {
+    "valueID": 1000375,
+    "total_value": 420,
+    "HP": 60,
+    "ATK": 75,
+    "DEF": 100,
+    "INT": 55,
+    "MDF": 80,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000376,
+    "total_value": 620,
+    "HP": 80,
+    "ATK": 135,
+    "DEF": 130,
+    "INT": 95,
+    "MDF": 90,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000377,
+    "total_value": 620,
+    "HP": 80,
+    "ATK": 120,
+    "DEF": 200,
+    "INT": 50,
+    "MDF": 120,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000378,
+    "total_value": 620,
+    "HP": 80,
+    "ATK": 50,
+    "DEF": 100,
+    "INT": 120,
+    "MDF": 200,
+    "ACT": 70
+  },
+  {
+    "valueID": 1000379,
+    "total_value": 620,
+    "HP": 80,
+    "ATK": 95,
+    "DEF": 150,
+    "INT": 95,
+    "MDF": 150,
+    "ACT": 50
+  },
+  {
+    "valueID": 1000380,
+    "total_value": 600,
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 90,
+    "INT": 110,
+    "MDF": 130,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000381,
+    "total_value": 600,
+    "HP": 80,
+    "ATK": 90,
+    "DEF": 80,
+    "INT": 130,
+    "MDF": 110,
+    "ACT": 110
+  },
+  {
+    "valueID": 1000382,
+    "total_value": 670,
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 90,
+    "INT": 150,
+    "MDF": 140,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000383,
+    "total_value": 670,
+    "HP": 100,
+    "ATK": 150,
+    "DEF": 140,
+    "INT": 100,
+    "MDF": 90,
+    "ACT": 90
+  },
+  {
+    "valueID": 1000384,
+    "total_value": 680,
+    "HP": 105,
+    "ATK": 150,
+    "DEF": 90,
+    "INT": 150,
+    "MDF": 90,
+    "ACT": 95
+  },
+  {
+    "valueID": 1000385,
+    "total_value": 600,
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 100,
+    "INT": 100,
+    "MDF": 100,
+    "ACT": 100
+  },
+  {
+    "valueID": 1000386,
+    "total_value": 600,
+    "HP": 50,
+    "ATK": 150,
+    "DEF": 50,
+    "INT": 150,
+    "MDF": 50,
+    "ACT": 150
+  },
+  {
+    "valueID": 2000001,
+    "total_value": 591,
+    "HP": 105,
+    "ATK": 135,
+    "DEF": 90,
+    "INT": 70,
+    "MDF": 110,
+    "ACT": 81
+  },
+  {
+    "valueID": 2000002,
+    "total_value": 505,
+    "HP": 75,
+    "ATK": 130,
+    "DEF": 90,
+    "INT": 65,
+    "MDF": 60,
+    "ACT": 85
+  },
+  {
+    "valueID": 2000003,
+    "total_value": 548,
+    "HP": 80,
+    "ATK": 84,
+    "DEF": 85,
+    "INT": 109,
+    "MDF": 90,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000004,
+    "total_value": 550,
+    "HP": 85,
+    "ATK": 82,
+    "DEF": 83,
+    "INT": 110,
+    "MDF": 110,
+    "ACT": 80
+  },
+  {
+    "valueID": 2000005,
+    "total_value": 581,
+    "HP": 95,
+    "ATK": 80,
+    "DEF": 70,
+    "INT": 140,
+    "MDF": 80,
+    "ACT": 116
+  },
+  {
+    "valueID": 2000006,
+    "total_value": 704,
+    "HP": 110,
+    "ATK": 100,
+    "DEF": 130,
+    "INT": 100,
+    "MDF": 154,
+    "ACT": 110
+  },
+  {
+    "valueID": 2000007,
+    "total_value": 525,
+    "HP": 70,
+    "ATK": 100,
+    "DEF": 70,
+    "INT": 100,
+    "MDF": 80,
+    "ACT": 105
+  },
+  {
+    "valueID": 2000008,
+    "total_value": 779,
+    "HP": 105,
+    "ATK": 190,
+    "DEF": 100,
+    "INT": 154,
+    "MDF": 100,
+    "ACT": 130
+  },
+  {
+    "valueID": 2000009,
+    "total_value": 615,
+    "HP": 80,
+    "ATK": 135,
+    "DEF": 85,
+    "INT": 70,
+    "MDF": 95,
+    "ACT": 150
+  },
+  {
+    "valueID": 2000010,
+    "total_value": 615,
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 80,
+    "INT": 170,
+    "MDF": 80,
+    "ACT": 125
+  },
+  {
+    "valueID": 2000011,
+    "total_value": 565,
+    "HP": 70,
+    "ATK": 75,
+    "DEF": 180,
+    "INT": 130,
+    "MDF": 80,
+    "ACT": 30
+  },
+  {
+    "valueID": 2000012,
+    "total_value": 645,
+    "HP": 100,
+    "ATK": 155,
+    "DEF": 109,
+    "INT": 70,
+    "MDF": 130,
+    "ACT": 81
+  },
+  {
+    "valueID": 2000013,
+    "total_value": 620,
+    "HP": 70,
+    "ATK": 160,
+    "DEF": 80,
+    "INT": 130,
+    "MDF": 80,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000014,
+    "total_value": 700,
+    "HP": 100,
+    "ATK": 164,
+    "DEF": 150,
+    "INT": 95,
+    "MDF": 120,
+    "ACT": 71
+  },
+  {
+    "valueID": 2000015,
+    "total_value": 779,
+    "HP": 105,
+    "ATK": 150,
+    "DEF": 70,
+    "INT": 194,
+    "MDF": 120,
+    "ACT": 140
+  },
+  {
+    "valueID": 2000016,
+    "total_value": 570,
+    "HP": 90,
+    "ATK": 135,
+    "DEF": 70,
+    "INT": 125,
+    "MDF": 70,
+    "ACT": 80
+  },
+  {
+    "valueID": 2000017,
+    "total_value": 475,
+    "HP": 60,
+    "ATK": 60,
+    "DEF": 60,
+    "INT": 105,
+    "MDF": 105,
+    "ACT": 85
+  },
+  {
+    "valueID": 2000018,
+    "total_value": 630,
+    "HP": 95,
+    "ATK": 160,
+    "DEF": 60,
+    "INT": 135,
+    "MDF": 70,
+    "ACT": 110
+  },
+  {
+    "valueID": 2000019,
+    "total_value": 580,
+    "HP": 160,
+    "ATK": 160,
+    "DEF": 80,
+    "INT": 20,
+    "MDF": 100,
+    "ACT": 60
+  },
+  {
+    "valueID": 2000020,
+    "total_value": 505,
+    "HP": 90,
+    "ATK": 110,
+    "DEF": 55,
+    "INT": 110,
+    "MDF": 55,
+    "ACT": 85
+  },
+  {
+    "valueID": 2000021,
+    "total_value": 770,
+    "HP": 106,
+    "ATK": 150,
+    "DEF": 110,
+    "INT": 164,
+    "MDF": 110,
+    "ACT": 130
+  },
+  {
+    "valueID": 2000022,
+    "total_value": 810,
+    "HP": 110,
+    "ATK": 160,
+    "DEF": 100,
+    "INT": 175,
+    "MDF": 130,
+    "ACT": 135
+  },
+  {
+    "valueID": 2000023,
+    "total_value": 774,
+    "HP": 110,
+    "ATK": 160,
+    "DEF": 90,
+    "INT": 140,
+    "MDF": 164,
+    "ACT": 110
+  },
+  {
+    "valueID": 2000024,
+    "total_value": 600,
+    "HP": 80,
+    "ATK": 185,
+    "DEF": 115,
+    "INT": 30,
+    "MDF": 105,
+    "ACT": 85
+  },
+  {
+    "valueID": 2000025,
+    "total_value": 600,
+    "HP": 70,
+    "ATK": 150,
+    "DEF": 140,
+    "INT": 55,
+    "MDF": 100,
+    "ACT": 85
+  },
+  {
+    "valueID": 2000026,
+    "total_value": 634,
+    "HP": 78,
+    "ATK": 130,
+    "DEF": 111,
+    "INT": 130,
+    "MDF": 85,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000027,
+    "total_value": 634,
+    "HP": 78,
+    "ATK": 104,
+    "DEF": 78,
+    "INT": 159,
+    "MDF": 115,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000028,
+    "total_value": 625,
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 123,
+    "INT": 122,
+    "MDF": 120,
+    "ACT": 80
+  },
+  {
+    "valueID": 2000029,
+    "total_value": 650,
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 123,
+    "INT": 132,
+    "MDF": 135,
+    "ACT": 80
+  },
+  {
+    "valueID": 2000030,
+    "total_value": 635,
+    "HP": 100,
+    "ATK": 150,
+    "DEF": 110,
+    "INT": 95,
+    "MDF": 110,
+    "ACT": 70
+  },
+  {
+    "valueID": 2000031,
+    "total_value": 700,
+    "HP": 80,
+    "ATK": 150,
+    "DEF": 150,
+    "INT": 100,
+    "MDF": 110,
+    "ACT": 110
+  },
+  {
+    "valueID": 2000032,
+    "total_value": 705,
+    "HP": 100,
+    "ATK": 150,
+    "DEF": 125,
+    "INT": 125,
+    "MDF": 85,
+    "ACT": 120
+  },
+  {
+    "valueID": 2000033,
+    "total_value": 637,
+    "HP": 79,
+    "ATK": 100,
+    "DEF": 110,
+    "INT": 155,
+    "MDF": 115,
+    "ACT": 78
+  },
+  {
+    "valueID": 2000034,
+    "total_value": 780,
+    "HP": 105,
+    "ATK": 180,
+    "DEF": 100,
+    "INT": 180,
+    "MDF": 100,
+    "ACT": 115
+  },
+  {
+    "valueID": 2000035,
+    "total_value": 800,
+    "HP": 105,
+    "ATK": 185,
+    "DEF": 105,
+    "INT": 185,
+    "MDF": 105,
+    "ACT": 115
+  },
+  {
+    "valueID": 2000036,
+    "total_value": 694,
+    "HP": 105,
+    "ATK": 155,
+    "DEF": 92,
+    "INT": 155,
+    "MDF": 92,
+    "ACT": 95
+  },
+  {
+    "valueID": 2000037,
+    "total_value": 648,
+    "HP": 78,
+    "ATK": 135,
+    "DEF": 115,
+    "INT": 130,
+    "MDF": 90,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000038,
+    "total_value": 645,
+    "HP": 78,
+    "ATK": 104,
+    "DEF": 78,
+    "INT": 165,
+    "MDF": 120,
+    "ACT": 100
+  },
+  {
+    "valueID": 2000039,
+    "total_value": 455,
+    "HP": 65,
+    "ATK": 105,
+    "DEF": 60,
+    "INT": 60,
+    "MDF": 70,
+    "ACT": 95
+  }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "ID": 1,
+        "character": "努力",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 2,
+        "character": "孤独",
+        "ATK": 1.1,
+        "DEF": 0.9,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 3,
+        "character": "勇敢",
+        "ATK": 1.1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 0.9
+    },
+    {
+        "ID": 4,
+        "character": "固执",
+        "ATK": 1.1,
+        "DEF": 1,
+        "INT": 0.9,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 5,
+        "character": "调皮",
+        "ATK": 1.1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 0.9,
+        "ACT": 1
+    },
+    {
+        "ID": 6,
+        "character": "大胆",
+        "ATK": 0.9,
+        "DEF": 1.1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 7,
+        "character": "直率",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 8,
+        "character": "悠闲",
+        "ATK": 1,
+        "DEF": 1.1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 0.9
+    },
+    {
+        "ID": 9,
+        "character": "淘气",
+        "ATK": 1,
+        "DEF": 1.1,
+        "INT": 0.9,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 10,
+        "character": "乐天",
+        "ATK": 1,
+        "DEF": 1.1,
+        "INT": 1,
+        "MDF": 0.9,
+        "ACT": 1
+    },
+    {
+        "ID": 11,
+        "character": "胆小",
+        "ATK": 0.9,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1.1
+    },
+    {
+        "ID": 12,
+        "character": "急躁",
+        "ATK": 1,
+        "DEF": 0.9,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1.1
+    },
+    {
+        "ID": 13,
+        "character": "认真",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 14,
+        "character": "开朗",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 0.9,
+        "MDF": 1,
+        "ACT": 1.1
+    },
+    {
+        "ID": 15,
+        "character": "天真",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 0.9,
+        "ACT": 1.1
+    },
+    {
+        "ID": 16,
+        "character": "保守",
+        "ATK": 0.9,
+        "DEF": 1,
+        "INT": 1.1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 17,
+        "character": "稳重",
+        "ATK": 1,
+        "DEF": 0.9,
+        "INT": 1.1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 18,
+        "character": "冷静",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1.1,
+        "MDF": 1,
+        "ACT": 0.9
+    },
+    {
+        "ID": 19,
+        "character": "害羞",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    },
+    {
+        "ID": 20,
+        "character": "马虎",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1.1,
+        "MDF": 0.9,
+        "ACT": 1
+    },
+    {
+        "ID": 21,
+        "character": "沉着",
+        "ATK": 0.9,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1.1,
+        "ACT": 1
+    },
+    {
+        "ID": 22,
+        "character": "温顺",
+        "ATK": 1,
+        "DEF": 0.9,
+        "INT": 1,
+        "MDF": 1.1,
+        "ACT": 1
+    },
+    {
+        "ID": 23,
+        "character": "狂妄",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1.1,
+        "ACT": 0.9
+    },
+    {
+        "ID": 24,
+        "character": "慎重",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 0.9,
+        "MDF": 1.1,
+        "ACT": 1
+    },
+    {
+        "ID": 25,
+        "character": "浮躁",
+        "ATK": 1,
+        "DEF": 1,
+        "INT": 1,
+        "MDF": 1,
+        "ACT": 1
+    }
+]

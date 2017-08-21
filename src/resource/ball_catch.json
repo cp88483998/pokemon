@@ -1,0 +1,212 @@
+[
+  {
+    "item_id": "130001",
+    "item_name": "精灵球",
+    "elves_limit": 0,
+    "catch_rate": 1
+  },
+  {
+    "item_id": "130002",
+    "item_name": "超级球",
+    "elves_limit": 0,
+    "catch_rate": 1.5
+  },
+  {
+    "item_id": "130003",
+    "item_name": "高级球",
+    "elves_limit": 0,
+    "catch_rate": 2
+  },
+  {
+    "item_id": "130004",
+    "item_name": "大师球",
+    "elves_limit": 0,
+    "catch_rate": null
+  },
+  {
+    "item_id": "130005",
+    "item_name": "公园球",
+    "elves_limit": 0,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130006",
+    "item_name": "流水球",
+    "elves_limit": 10,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130007",
+    "item_name": "烈焰球",
+    "elves_limit": 9,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130008",
+    "item_name": "藤草球",
+    "elves_limit": 12,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130009",
+    "item_name": "闪电球",
+    "elves_limit": 11,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130010",
+    "item_name": "寒冰球",
+    "elves_limit": 13,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130011",
+    "item_name": "超能球",
+    "elves_limit": 14,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130012",
+    "item_name": "困龙球",
+    "elves_limit": 15,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130013",
+    "item_name": "昆虫球",
+    "elves_limit": 5,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130014",
+    "item_name": "五毒球",
+    "elves_limit": 2,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130015",
+    "item_name": "飞行球",
+    "elves_limit": 4,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130016",
+    "item_name": "大地球",
+    "elves_limit": 3,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130017",
+    "item_name": "岩石球",
+    "elves_limit": 6,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130018",
+    "item_name": "幽灵球",
+    "elves_limit": 7,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130019",
+    "item_name": "格斗球",
+    "elves_limit": 1,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130020",
+    "item_name": "平等球",
+    "elves_limit": 0,
+    "catch_rate": 2.5
+  },
+  {
+    "item_id": "130021",
+    "item_name": "高级流水球",
+    "elves_limit": 10,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130022",
+    "item_name": "高级烈焰球",
+    "elves_limit": 9,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130023",
+    "item_name": "高级藤草球",
+    "elves_limit": 12,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130024",
+    "item_name": "高级闪电球",
+    "elves_limit": 11,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130025",
+    "item_name": "高级寒冰球",
+    "elves_limit": 13,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130026",
+    "item_name": "高级超能球",
+    "elves_limit": 14,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130027",
+    "item_name": "高级困龙球",
+    "elves_limit": 15,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130028",
+    "item_name": "高级昆虫球",
+    "elves_limit": 5,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130029",
+    "item_name": "高级五毒球",
+    "elves_limit": 2,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130030",
+    "item_name": "高级飞行球",
+    "elves_limit": 4,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130031",
+    "item_name": "高级大地球",
+    "elves_limit": 3,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130032",
+    "item_name": "高级岩石球",
+    "elves_limit": 6,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130033",
+    "item_name": "高级幽灵球",
+    "elves_limit": 7,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130034",
+    "item_name": "高级格斗球",
+    "elves_limit": 1,
+    "catch_rate": 5
+  },
+  {
+    "item_id": "130035",
+    "item_name": "高级平等球",
+    "elves_limit": 0,
+    "catch_rate": 5
+  }
+]
